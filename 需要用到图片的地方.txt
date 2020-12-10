@@ -1,9 +1,8 @@
 首页：
-Banner
-Category
+Category √
 Headline
 Activity
-Discount
+Discount √
 Likes
 
 详情页：
