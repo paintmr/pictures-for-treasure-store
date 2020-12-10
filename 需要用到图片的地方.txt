@@ -1,0 +1,13 @@
+首页：
+Banner
+Category
+Headline
+Activity
+Discount
+Likes
+
+详情页：
+每个产品1张
+
+搜索结果页面
+商铺头图
